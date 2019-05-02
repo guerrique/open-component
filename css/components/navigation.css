@@ -1,0 +1,20 @@
+.navigation {
+  height: 30px;
+  /*background-color: red;*/
+  position: absolute;
+  top: 10px;
+  right: 10px;
+
+}
+
+.tab {
+  color: white;
+  padding: 0 10px;
+  /*margin: 0;*/
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.navigation a:hover {
+  color: #3b3a3a;
+}
