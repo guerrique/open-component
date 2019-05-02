@@ -17,4 +17,5 @@
 
 .navigation a:hover {
   color: #3b3a3a;
+  background-color: transparent;
 }
